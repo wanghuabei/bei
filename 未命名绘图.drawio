@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T01:32:28.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NIDdgJfiLoLmhQjR37lE" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T01:34:44.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="82_w_m05UMp4QRynPTYq" version="21.8.2" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -287,6 +287,24 @@
           <mxGeometry x="0.0343" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b7uDuo1lFdEUN1fhXJH6-11" value="成果上传审核（&lt;b&gt;&lt;font color=&quot;#00994d&quot;&gt;步骤&lt;/font&gt;&lt;/b&gt;）" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="220" y="880" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="b7uDuo1lFdEUN1fhXJH6-12" value="上传审核" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="b7uDuo1lFdEUN1fhXJH6-11">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b7uDuo1lFdEUN1fhXJH6-16" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;entryDx=0;entryDy=0;" edge="1" parent="b7uDuo1lFdEUN1fhXJH6-11" source="b7uDuo1lFdEUN1fhXJH6-12" target="b7uDuo1lFdEUN1fhXJH6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7uDuo1lFdEUN1fhXJH6-17" value="成果认领审核（&lt;b&gt;&lt;font color=&quot;#00994d&quot;&gt;步骤&lt;/font&gt;&lt;/b&gt;）" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="220" y="980" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="b7uDuo1lFdEUN1fhXJH6-18" value="认领审核" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="b7uDuo1lFdEUN1fhXJH6-17">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b7uDuo1lFdEUN1fhXJH6-19" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;entryX=0;entryY=0.5;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;entryDx=0;entryDy=0;" edge="1" parent="b7uDuo1lFdEUN1fhXJH6-17" source="b7uDuo1lFdEUN1fhXJH6-18" target="b7uDuo1lFdEUN1fhXJH6-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
